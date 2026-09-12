@@ -100,6 +100,10 @@ Through this project, I practiced:
 * Executing SQL queries from Python
 * Logging ETL pipeline progress
 
+   📸 Project Output
+
+![ETL Project Output](output.png)
+
  👩‍💻 Author
 
 Aya Ahmed El Sayed
